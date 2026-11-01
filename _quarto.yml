@@ -15,6 +15,8 @@ website:
       - text: "CV"
         href: images/QuinnWhiteCV.pdf
         target: _blank
+    resources:
+      - google23b4b50e92c7ebe6.html
   search: false
 format:
   html:
