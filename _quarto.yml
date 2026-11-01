@@ -1,0 +1,24 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Quinn White"
+  navbar:
+    background: "#D4E5DD"
+    foreground: "#244F55"
+    left:
+      - href: index.qmd
+        text: Home
+      - href: research.qmd
+        text: Research
+      - text: "CV"
+        href: images/QuinnWhiteCV.pdf
+        target: _blank
+  search: false
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    link-external-newwindow: true

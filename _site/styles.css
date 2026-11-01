@@ -1,0 +1,208 @@
+:root {
+  --deep-teal: #244F55;
+  --base-teal: #469999;
+  --sea-glass: #8CBDB3;
+  --soft-sage: #D4E5DD;
+  --ivory: #F6F3EB;
+  --page-bg: #FCFBF8;
+}
+body { background: var(--page-bg); color: #303b3c; font-family: "Helvetica Neue", Arial, sans-serif; line-height: 1.75; }
+.navbar { background: var(--page-bg) !important; border-bottom: 1px solid #e6ebe7; }
+.navbar-brand, .navbar-nav .nav-link { color: var(--deep-teal) !important; }
+.navbar-nav .nav-link:hover { color: var(--base-teal) !important; }
+h1, h2, h3, h4 { color: var(--deep-teal); font-weight: 600; }
+h1 { letter-spacing: -.035em; }
+a { color: #287b7b; }
+a:hover { color: var(--deep-teal); }
+#quarto-content { max-width: 980px; margin: auto; }
+main.content { padding-top: 2.5rem; }
+.home-wrap { max-width: 940px; margin: 0 auto; padding: 2rem 1.5rem 4rem; }
+.hero { display: grid; grid-template-columns: minmax(0, 1fr) 245px; align-items: center; gap: 4rem; padding: 3.2rem 0 3.5rem; border-bottom: 1px solid #dce7e1; }
+.hero-copy h1 { font-size: clamp(2.5rem, 5vw, 3.7rem); margin-bottom: .8rem; }
+.hero-copy p { max-width: 560px; }
+.hero-photo img { display: block; width: 100%; height: 310px; object-fit: cover; object-position: center 30%; border-radius: 8px; }
+.home-wrap h2 { margin-top: 2.8rem; font-size: 1.45rem; }
+.nav-footer { background: var(--page-bg); border-top: 1px solid #e6ebe7; color: #667; }
+@media (max-width: 680px) { .hero { grid-template-columns: 1fr; gap: 1.5rem; padding-top: 1rem; } .hero-photo { grid-row: 1; } .hero-photo img { width: 180px; height: 220px; } .home-wrap { padding: 1rem; } }
+
+
+
+/* ===== Homepage ===== */
+
+body {
+  background: #FCFBF8;
+  color: #244F55;
+}
+
+.home-wrap {
+  max-width: 850px;
+  margin: 0 auto;
+  padding: 55px 30px 90px;
+}
+
+/* Intro and headshot */
+
+.hero {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 165px;
+  gap: 55px;
+  align-items: center;
+  padding-bottom: 35px;
+  border-bottom: 2px solid #D4E5DD;
+}
+
+.hero-copy h1 {
+  color: #244F55;
+  font-size: 3.1rem;
+  font-weight: 600;
+  letter-spacing: -0.035em;
+  margin: 0 0 14px;
+}
+
+.hero-copy strong {
+  color: #469999;
+  font-weight: 600;
+}
+
+.hero-copy p {
+  line-height: 1.75;
+  margin-bottom: 14px;
+}
+
+.hero-photo img {
+  width: 165px;
+  max-width: 100%;
+  height: auto;
+  border-radius: 7px;
+  display: block;
+}
+
+.hero-photo p {
+  margin: 0;
+}
+
+/* Main research description */
+
+.home-bio {
+  padding-top: 32px;
+}
+
+.home-bio p {
+  font-size: 1.04rem;
+  line-height: 1.9;
+  margin-bottom: 24px;
+}
+
+/* Personal closing sentence */
+
+.home-personal {
+  margin-top: 30px;
+  padding-top: 20px;
+  border-top: 1px solid #D4E5DD;
+}
+
+.home-personal p {
+  color: #537477;
+  font-size: 0.96rem;
+  font-style: italic;
+}
+
+/* Links */
+
+.home-wrap a {
+  color: #327C7C;
+  text-decoration: none;
+  border-bottom: 1px solid #8CBDB3;
+}
+
+.home-wrap a:hover {
+  color: #244F55;
+  border-bottom-color: #244F55;
+}
+
+/* Mobile layout */
+
+@media (max-width: 650px) {
+  .home-wrap {
+    padding: 30px 20px 60px;
+  }
+
+  .hero {
+    grid-template-columns: 1fr 115px;
+    gap: 18px;
+  }
+
+  .hero-copy h1 {
+    font-size: 2.3rem;
+  }
+
+  .hero-photo img {
+    width: 115px;
+  }
+
+  .home-bio p {
+    font-size: 1rem;
+    line-height: 1.8;
+  }
+}
+
+
+/* ===================================
+   NAVIGATION BAR
+   =================================== */
+
+.navbar {
+  background-color: #D4E5DD !important;
+  border-bottom: 1px solid #C2D9D0;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  box-shadow: none !important;
+}
+
+/* Website name */
+
+.navbar-brand {
+  color: #244F55 !important;
+  font-size: 1.35rem;
+  font-weight: 600;
+  letter-spacing: -0.02em;
+}
+
+/* Navigation links */
+
+.navbar .nav-link {
+  color: #244F55 !important;
+  font-size: 0.98rem;
+  font-weight: 450;
+  margin: 0 12px;
+  padding-bottom: 7px !important;
+  border-bottom: 2px solid transparent;
+  transition: border-color 0.2s ease;
+}
+
+/* Hover */
+
+.navbar .nav-link:hover {
+  color: #327C7C !important;
+  border-bottom-color: #8CBDB3;
+}
+
+/* Current page */
+
+.navbar .nav-link.active,
+.navbar .nav-link[aria-current="page"] {
+  color: #244F55 !important;
+  font-weight: 600;
+  border-bottom-color: #469999;
+}
+
+/* Mobile navigation */
+
+.navbar-toggler {
+  border-color: #8CBDB3 !important;
+}
+
+.navbar-toggler-icon {
+  filter: brightness(0.35);
+}
+

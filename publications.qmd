@@ -1,0 +1,36 @@
+
+---
+title: "Publications"
+---
+
+## Publications
+
+1. White, Q., Hansen, S. L., Saldivar Murphy, B., Johnson, W. C., DeFilippis, A., Post, W., & McClelland, R. L. (2026). Reevaluating the use of race/ethnicity in the MESA risk score. *Journal of the American Heart Association*.
+
+2. Cai, X., **White, Q.**, et al. (2026). Association of subclinical cardiac remodeling with incident cancer in the MESA cohort. *Journal of the American Heart Association*.
+
+3. Arai, D., et al. (2026). Association between depressive symptoms and thoracic aortic calcification, and their independent and joint prognostic value for incident atherosclerotic cardiovascular disease in the MESA cohort. *The International Journal of Cardiovascular Imaging*.
+
+4. Cai, X., **White, Q.**, Johnson, W. C., Hansen, S. L., Dardari, Z. A., Blaha, M., Michos, E. D., Lima, J. A. C., deFilippi, C. R., Budoff, M. J., Watson, K. E., McClelland, R. L., & Yang, E. H. (2025). Baseline cardiac biomarker levels as predictors of cancer risk in the MESA cohort. *JACC: Advances, 4*(7), 101884. https://doi.org/10.1016/j.jacadv.2025.101884
+
+5. Cai, X., **White, Q.**, Wang, D. R., deFilippi, C. R., Bertoni, A. G., Wu, C. O., Liu, K., Lima, J. A. C., Budoff, M. J., Fonarow, G. C., Watson, K. E., McClelland, R. L., & Yang, E. H. (2024). Cardiovascular risks and outcomes among Chinese American immigrants: Insights from the Multi-Ethnic Study of Atherosclerosis. *Journal of the American Heart Association, 13*(18). https://doi.org/10.1161/JAHA.124.037114
+
+6. Witkowski, S.\*, **White, Q.\***, Shreyer, S., Garcia, R. L., Brown, D. E., & Sievert, L. L. (2024). Acute increases in physical activity and temperature are associated with hot flash experience in midlife women. *Menopause, 31*(7). https://doi.org/10.1097/GME.0000000000002373
+
+7. Witkowski, S.\*, **White, Q.\***, Shreyer, S., Brown, D. E., & Sievert, L. L. (2024). The influence of habitual physical activity and sedentary behavior on objective and subjective hot flashes at midlife. *Menopause, 31*(5). https://doi.org/10.1097/GME.0000000000002341
+
+8. Shireman, J. M., **White, Q.**, Ni, Z., Mohanty, C., Cai, Y., Zhao, L., Agrawal, N., et al. (2024). Genomic analysis of human brain metastases treated with stereotactic radiosurgery reveals unique signature based on treatment failure. *iScience, 27*(4). https://doi.org/10.1016/j.isci.2024.109601
+
+9. Witkowski, S., Evard, R., Rickson, J. J., **White, Q.**, & Sievert, L. L. (2023). Physical activity and exercise for hot flashes: Trigger or treatment? *Menopause, 30*(2). https://doi.org/10.1097/GME.0000000000002107
+
+10. Barnes, P., Smith, K., Parrish, R., Jones, C., Skinner, P., Storch, E., **White, Q.**, et al. (2020). A non-aqueous sodium hexafluorophosphate-based electrolyte degradation study: Formation and mitigation of hydrofluoric acid. *Journal of Power Sources, 447*, 227363. https://doi.org/10.1016/j.jpowsour.2019.227363
+
+\* Equal contribution.
+
+## Selected Conference Presentations
+
+- **White, Q.**, Hansen, S., Saldivar Murphy, B., Johnson, C., DeFilippis, A., Post, W., & McClelland, R. (2024, November). *Re-evaluating the use of race/ethnicity in the MESA risk score*. Poster presented at the American Heart Association Scientific Sessions.
+
+- **White, Q.**, Greco, M., Sleith, R., Weiner, A., & Katz, L. A. (2021, January). *Population structure in uncultivable protists: A novel approach*. Poster presented at the Pioneer Valley Microbiology Symposium.
+
+- **White, Q.** (2021, October). *Will telehealth revolutionize access to mental health care?* Poster presented at the Science, Technology and Human Rights Conference.

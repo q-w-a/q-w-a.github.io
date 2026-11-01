@@ -1,0 +1,46 @@
+---
+title: ""
+page-layout: full
+---
+
+::: {.home-wrap}
+
+::: {.hero}
+
+::: {.hero-copy}
+
+
+**PhD Student in Biostatistics**  
+University of Washington
+
+I'm currently a fourth-year PhD student at the University of Washington.
+
+[Email](mailto:qwhite@uw.edu)
+
+:::
+
+::: {.hero-photo}
+
+![](images/headshot.jpg){fig-alt="Headshot of Quinn White"}
+
+:::
+
+:::
+
+::: {.home-bio}
+
+Broadly, I'm interested in how we can develop methods that support clinical decision-making. From a methods standpoint, I'm interested in the ways we communicate uncertainty around what we estimate to be the recommended decisions. Accordingly, my dissertation work under Marco Carone and Andrea Rotnitzky focuses on notions of uncertainty for individualized treatment rules. My interests fall into the realms of non- and semiparametric theory and causal inference.
+
+My applied work under Robyn McClelland has primarily focused on the Multi-Ethnic Study of Atherosclerosis (MESA), where I collaborate with clinicians to investigate associations between cardiovascular biomarkers and time-to-event clinical outcomes. My work on the MESA Risk Score further deepened my interest in the development, evaluation, and communication of tools like risk scores for informing clinical decisions.
+
+:::
+
+::: {.home-personal}
+
+Outside of research, you'll generally find me out on my bike or with my two lovely dogs.
+
+:::
+
+:::
+
+
